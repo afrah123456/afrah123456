@@ -17,15 +17,9 @@ Currently based in Boston. Looking for New Grad roles in AI/ML engineering, data
 
 ---
 
-### Stack
+### Tools I actually use
 
-**Data & ML:** Python · PyTorch · TensorFlow · Scikit-learn · XGBoost · Hugging Face · BERT · MLflow · DVC · Pandas · NumPy · SQL
-
-**AI & LLMs:** OpenAI APIs · Anthropic APIs · LangChain · MCP Protocol · Prompt Engineering · RAG
-
-**Backend & Full Stack:** FastAPI · Flask · React · TypeScript · Node.js · REST APIs · Docker · CI/CD
-
-**Cloud & Databases:** GCP · AWS · PostgreSQL · MySQL · MongoDB
+Python is where I live. For ML it's usually PyTorch or scikit-learn depending on the problem. For LLMs I've worked with OpenAI, Anthropic, Gemini, and LLaMA — and I've built with LangChain and MCP. On the backend side FastAPI and Flask, React and TypeScript for frontend when needed. GCP and AWS for deployment, PostgreSQL and MongoDB for storage, MLflow and DVC when experiment tracking actually matters.
 
 ---
 
