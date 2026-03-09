@@ -1,61 +1,46 @@
-# Hi, I'm Afrah 👋
+# Hi I am Afrah Fathima
 
-I'm an MS Computer Science student at **Northeastern University** (graduating May 2026), building AI systems that actually ship to production.
+MS Computer Science @ Northeastern, graduating May 2026.
 
-I spend my time outside class building things — AI agents, LLM pipelines, ML models, and full-stack apps. Most of what I build ends up being used by real people, which is the part I care about most.
+I work across data science, machine learning, and applied AI , building things that go to production and that people actually depend on. Most of my time outside class goes into shipping something, contributing to open source, or figuring out why a model that worked yesterday doesn't work today.
 
----
-
-## 🔨 What I'm Working On
-
-- **Voxify** — End-to-end MLOps speech translation pipeline on GCP (Hugging Face, DVC, Airflow)
-- **rewildingCities** — Open-source platform for community climate resilience research (NU Launch Labs)
-- Actively interviewing for New Grad AI/ML and SWE roles starting May 2026
+Currently based in Boston. Looking for New Grad roles in AI/ML engineering, data science, or full-stack SWE starting May 2026.
 
 ---
 
-## 🚀 Highlights
+### What I've built
 
-- 🤖 Built **[GitHub MCP Server](https://github.com/afrah123456/Github-mcp-server)** — open-source AI agent enabling natural language interaction with GitHub (15 tools, 100% test pass rate)
-- 🏢 Interned at **Brainvault Technologies** — shipped LLM pipelines serving 500+ daily users with 99.5% uptime
-- 📊 Built ML systems on datasets ranging from 10K to 30K+ records with production deployments
-- 🌍 Open-source contributor to IBM's Model Context Protocol framework
+**[GitHub MCP Server](https://github.com/afrah123456/Github-mcp-server)**
+An open-source MCP server that lets AI assistants like Claude control your GitHub through natural language. Built 15 tools — repo management, issues, PRs, branches, file ops. 100% test pass rate. People actually use it.
 
----
+**LLM Document Extraction Pipeline** *(Brainvault Technologies — internship)*
+Production system that reads messy legal PDFs and pulls out structured fields automatically. Went from 85% to 90–95% field-level accuracy through a lot of prompt iteration and architecture changes. Served 500+ daily users, 99.5% uptime.
 
-## 🛠️ Tech Stack
+**Credit Risk Prediction Platform**
+End-to-end ML system on 30,000+ financial records. The interesting part wasn't the model — it was figuring out which features actually mattered and why the naive accuracy metric was misleading. XGBoost, FastAPI, PostgreSQL, MLflow.
 
-**AI & LLMs:** OpenAI APIs · Gemini · LLaMA · LangChain · Hugging Face · Prompt Engineering · RAG · MCP Protocol
+**Multilingual Real-Time Content Detection**
+Fine-tuned BERT and LSTM on domain-specific audio data. Got to 95% accuracy at sub-100ms latency. Latency mattered here because it was live audio — so model choice and pipeline design were both important.
 
-**ML:** PyTorch · TensorFlow · Scikit-learn · XGBoost · BERT · LSTM · CNN
-
-**Backend:** Python · FastAPI · Flask · Node.js · REST APIs · Docker
-
-**Frontend:** React · TypeScript · JavaScript · Tailwind CSS
-
-**Data:** Pandas · NumPy · SQL · PostgreSQL · MySQL · MongoDB · MLflow · DVC
-
-**Cloud:** GCP · AWS · CI/CD · Git
+**Voxify** *(in progress)*
+End-to-end speech translation pipeline on GCP. Hugging Face Transformers (Wav2Vec2 + mT5), DVC for data versioning, Airflow for orchestration. Still building.
 
 ---
 
-## 📌 Featured Projects
+### Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [GitHub MCP Server](https://github.com/afrah123456/Github-mcp-server) | AI agent for GitHub via natural language | Python, MCP SDK, REST APIs |
-| Credit Risk Platform | Predictive ML on 30K+ financial records | XGBoost, FastAPI, PostgreSQL, MLflow |
-| Multilingual Detection | Real-time NLP system, 95% accuracy @ sub-100ms | BERT, LSTM, PyTorch |
-| Candidate Recommendation Engine | Semantic resume matching with Sentence-BERT | Flask, PyMuPDF, Sentence-BERT |
+Python · PyTorch · TensorFlow · Hugging Face · LangChain · OpenAI APIs · Anthropic APIs · MCP Protocol · FastAPI · Flask · React · TypeScript · PostgreSQL · MySQL · MongoDB · SQL · GCP · AWS · Docker · MLflow · DVC · Git
 
 ---
 
-## 📫 Let's Connect
+### Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afrah%20Fathima-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/afrah-fathima-b98090241/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://afrah-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-shahabuddin.af%40northeastern.edu-red?style=flat&logo=gmail)](mailto:shahabuddin.af@northeastern.edu)
+- Finishing my MS thesis and last semester at Northeastern
+- Contributing to **rewildingCities** — open-source climate resilience platform (NU Launch Labs)
+- Open to roles starting May/June 2026
 
 ---
 
-*Graduating May 2026 · Open to New Grad SWE, AI/ML, and Data Science roles*
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/afrah-fathima-b98090241/) · [Portfolio](https://afrah-portfolio.vercel.app/) · shahabuddin.af@northeastern.edu
