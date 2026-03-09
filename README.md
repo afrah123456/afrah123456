@@ -34,8 +34,7 @@ Python is where I live. For ML it's usually PyTorch or scikit-learn depending on
 ### GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=afrah123456&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrah123456&layout=compact&hide_border=true&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrah123456&layout=compact&langs_count=6&hide_border=true&count_private=true)
 ---
 
 ### Find me
